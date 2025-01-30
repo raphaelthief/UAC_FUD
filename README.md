@@ -11,8 +11,15 @@ https://medium.com/@raphaelthief/uac-windowsdefender-bypass-a5cd84769e81
 
 ## Table of Contents
 
+Automation :
 - Fodhelper reg key method (Languages : Python & C) : https://github.com/raphaelthief/UAC_FUD/tree/main/1
 - ComputerDefaults reg key method (Languages : Python & C) : https://github.com/raphaelthief/UAC_FUD/tree/main/2
+- Other methods to follow ...
+
+
+Manual ways :
+- eventvwr
+- MSI gaming intelligence
 - Other methods to follow ...
 
 
