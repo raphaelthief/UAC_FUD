@@ -1,4 +1,4 @@
-# eventvwr
+# SystemPropertiesAdvanced
 
 - Launch SystemPropertiesAdvanced
 - Do the following
