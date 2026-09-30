@@ -19,15 +19,7 @@
 // To bypass Windows Defender on the UAC via a registry key, you need to ensure several points :
 // - The path must not contain any suspicious words or extensions related to the system
 // --> 'ComputerDefaults', 'bypass' are suspicious words flagged by Windows Defender, leading to an immediate detection
-// --> '.py', 'cmd', '.vbs', '.ps1', '.bat' are system extensions that are part of the blacklist implemented by Microsoft for this vulnerability
-// - The launch of the exploit must be accompanied by a delay of at least 60 seconds. Below that, Defender will consider this behavior a threat
-// ######################################################################################################################################################################################################
-
-// ######################################################################################################################################################################################################
-// To bypass Windows Defender on the UAC via a registry key, you need to ensure several points :
-// - The path must not contain any suspicious words or extensions related to the system
-// --> 'ComputerDefaults', 'bypass' are suspicious words flagged by Windows Defender, leading to an immediate detection
-// --> '.py', 'cmd', '.vbs', '.ps1', '.bat' are system extensions that are part of the blacklist implemented by Microsoft for this vulnerability
+// --> '.py', '.cmd', '.vbs', '.ps1', '.bat' are system extensions that are part of the blacklist implemented by Microsoft for this vulnerability
 // - The launch of the exploit must be accompanied by a delay of at least 60 seconds. Below that, Defender will consider this behavior a threat
 // ######################################################################################################################################################################################################
 
